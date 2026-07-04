@@ -208,12 +208,12 @@ The application will open in your default web browser.
 
 ### Revenue Prediction
 
-![Prediction](Prediction_screenshot.png)
+![Prediction](Screenshots/Prediction_screenshot.png)
 
 ### Analytics Dashboard
 
-![Analytics](Analysis_1_screenshot.png)
-![Analytics](Analysis_2_screenshot.png)
+![Analytics](Screenshots/Analysis_1_screenshot.png)
+![Analytics](Screenshots/Analysis_2_screenshot.png)
 
 
 ---
