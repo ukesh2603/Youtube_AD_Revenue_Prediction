@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 Data/youtube_ad_revenue_dataset.csv
+.DS_Store
