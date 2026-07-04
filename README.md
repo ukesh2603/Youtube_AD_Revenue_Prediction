@@ -141,6 +141,11 @@ CONTENT_MONETIZATION_MODELER/
 ├── Data/
 │   └── youtube_ad_revenue_dataset.csv
 │
+├── Screenshots/
+│   └── Analysis_1_screenshot.png
+│   └── Analysis_2_screenshot.png
+│   └── Prediction_screenshot.png
+│   
 ├── Data_Preprocessing.ipynb
 ├── EDA.ipynb
 ├── Loading_dataset.ipynb
@@ -197,6 +202,19 @@ The application will open in your default web browser.
 - Revenue trend analysis based on watch time
 - Country wise revenue visualization
 - Correlation heatmap between features
+
+---
+## Application Preview
+
+### Revenue Prediction
+
+![Prediction](Prediction_screenshot.png)
+
+### Analytics Dashboard
+
+![Analytics](Analysis_1_screenshot.png)
+![Analytics](Analysis_2_screenshot.png)
+
 
 ---
 
