@@ -14,23 +14,23 @@ The project includes:
 - Streamlit Web Application for Predictions
 
 
-## 💼 Business Use Cases
+## Business Use Cases
 
-- 📈 **Content Strategy Optimization**
+- **Content Strategy Optimization**
   - Identify which content characteristics generate higher revenue.
 
-- 💰 **Revenue Forecasting**
+- **Revenue Forecasting**
   - Predict earnings before publishing new videos.
 
-- 📊 **Creator Analytics**
+- **Creator Analytics**
   - Support creators with data-driven monetization insights.
 
-- 📢 **Advertising Planning**
+- **Advertising Planning**
   - Help advertisers estimate campaign ROI.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** 
 
