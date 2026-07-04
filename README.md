@@ -194,7 +194,9 @@ The application will open in your default web browser.
 
 - Predict YouTube Ad Revenue
 - User friendly input interface
-- Interactive prediction results
+- Revenue trend analysis based on watch time
+- Country wise revenue visualization
+- Correlation heatmap between features
 
 ---
 
